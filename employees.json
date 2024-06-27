@@ -1,0 +1,72 @@
+[
+  {
+    "employee_id": 1,
+    "employee_name": "Opalina Aubrey",
+    "job_title": "Assistant Professor",
+    "department": "Business Development",
+    "project_id": 1
+  },
+  {
+    "employee_id": 2,
+    "employee_name": "Willabella Ogles",
+    "job_title": "Paralegal",
+    "department": "Engineering",
+    "project_id": 2
+  },
+  {
+    "employee_id": 3,
+    "employee_name": "Ruth Tilford",
+    "job_title": "Teacher",
+    "department": "Services",
+    "project_id": 3
+  },
+  {
+    "employee_id": 4,
+    "employee_name": "Jeffrey Stebbin",
+    "job_title": "Teacher",
+    "department": "Training",
+    "project_id": 4
+  },
+  {
+    "employee_id": 5,
+    "employee_name": "Emalee Wedgwood",
+    "job_title": "Biostatistician IV",
+    "department": "Training",
+    "project_id": 5
+  },
+  {
+    "employee_id": 6,
+    "employee_name": "Bond Agate",
+    "job_title": "VP Marketing",
+    "department": "Sales",
+    "project_id": 6
+  },
+  {
+    "employee_id": 7,
+    "employee_name": "Kristin Tatford",
+    "job_title": "Recruiter",
+    "department": "Engineering",
+    "project_id": 7
+  },
+  {
+    "employee_id": 8,
+    "employee_name": "Foster Olivetta",
+    "job_title": "Analog Circuit Design manager",
+    "department": "Sales",
+    "project_id": 8
+  },
+  {
+    "employee_id": 9,
+    "employee_name": "Cello Goold",
+    "job_title": "Chief Design Engineer",
+    "department": "Engineering",
+    "project_id": 9
+  },
+  {
+    "employee_id": 10,
+    "employee_name": "Tildie Kleinber",
+    "job_title": "Payment Adjustment Coordinator",
+    "department": "Sales",
+    "project_id": 10
+  }
+]
